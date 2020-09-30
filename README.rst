@@ -19,7 +19,7 @@ python-bluezero
 
 
 
-A simple Python interface to BlueZ stack
+A intresting Python interface to BlueZ stack
 
 Name and aim
 ============
